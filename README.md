@@ -1,16 +1,21 @@
-### Hi there 👋
+# streamlit_metric_dashboard
+Streamlit Metric Analytics Dashboard
 
-<!--
-**yashsanthu/yashsanthu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/5347322/130329533-27dbb82d-da12-41e0-b147-131e919d561f.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### How to Run?
+
+Update Streamlit to the latest version with 
+
+```
+pip3 install --upgrade streamlit
+```
+
+Download / Clone the Repo and enter into the folder with your `Terminal` or `Shell`
+
+Run `streamlit run new_app.py` 
+
+Open the given link in the terminal and enjoy your 📈
+
+
